@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Mein Portfolio</title>
+</head>
+<body> 
+<h1>Unsere tolle HTML-Klasse</h1>
+<h3>Unsere tolle HTML-Klasse</h3><br>
+<a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><button type="button">Unsere tolle HTML-Klasse</button></a><br>
+<p align="center"><b>Hello World!!!</b><br>
+<i>Azad Can Polat</i><br>
+Juliusstraße 1<br>
+12045 Berlin
+
+<ul>
+	<li>Milch</li>
+	<li>Brot</li>
+	<li>Butter</li>
+	<li>Zucker</li>
+</ul><br>
+
+
+
+<ol type="I">
+	<li>Handout lesen</li>
+	<li>Im Internet suchen</li>
+	<li>Fragen stellen</li>
+	<li>Beantworten</li>
+</ol>
+
+<img src="../Grafiken/dima-panyukov-_4ZLmHzwARY-unsplash.jpg" width="100" height="1200" alt="Nice Car">
+
+</body>
+</html>
